@@ -1,0 +1,57 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    background-color:rgb(26,188,156);
+    width: min-content;
+    border-radius: 10px;
+}
+.navbar, .footer{
+    background-color: rgb(44,62,80);
+}
+.navbar-brand{
+    font-size: 26px;
+    color: white;
+
+}
+.nav-item a{
+    font-size: 20px;
+    color: white;
+}
+.home-content, .about ,.btn{
+    background-color: rgb(26,188,156);
+}
+.contact{
+    h1{
+        color:rgb(44,62,80) ;
+    }
+}
+.icon{
+    width: 40px;
+    height: 40px;
+
+}
+.sec-footer{
+    background-color: rgb(26,37,47);
+
+}
+.portfolio{
+    h1{
+        color:rgb(44,62,80) ;
+    }
+}
+.layer:hover {
+    opacity: 1;
+    transition: 0.6s all;
+}
+.layer{
+background-color: #1abc9ca9;
+opacity: 0;
+}
+.line{
+    width: 80px;
+    height: 4px;
+    background-color: rgb(44,62,80);
+}
+.line-h{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+}
